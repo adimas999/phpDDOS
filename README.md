@@ -50,3 +50,7 @@ run the DDOS Script
 ```bash
 > php run.php
 ```
+
+## DDOS
+DDoS class in CLI (command line input)<br />
+You need at least PHP-CLI installed
